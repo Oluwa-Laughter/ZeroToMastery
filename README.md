@@ -1,2 +1,2 @@
 # ZeroToMastery
-This repository contains all my python code and learnings from the ZeroToMastery by Andrei Neagoie 
+This repository contains all my python code and learnings from ZeroToMastery by Andrei Neagoie 
